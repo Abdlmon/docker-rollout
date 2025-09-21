@@ -1,3 +1,4 @@
+Hacking WhatsApp
 <div align="center">
 <h1>
 <code>docker rollout</code><br>
@@ -16,7 +17,14 @@ Simply replace `docker compose up -d <service>` with `docker rollout <service>` 
 - [Installation](#installation)
 - [Usage](#usage)
   - [⚠️ Caveats](#️-caveats)
-  - [Sample deployment script](#sample-deployment-script)
+  - [Sample deployment script](#sample-depl#^(٢*#
+  -
+  -
+  -
+  -
+  -
+  -
+  - oyment-script)
   - [Draining old containers](#draining-old-containers)
 - [Why?](#why)
 - [License](#license)
